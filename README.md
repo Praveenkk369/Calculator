@@ -2,7 +2,7 @@ Neumorphic Calculator
 This is a neumorphic calculator implemented using HTML, CSS, and JavaScript. It provides a visually appealing and user-friendly interface for performing basic arithmetic operations.
 
 Usage
-To use the calculator, simply visit the following URL: https://krishprav.github.io/Calculator/
+To use the calculator, simply visit the following URL: (https://praveenkk369.github.io/Calculator/)
 
 The calculator interface will be displayed in your web browser, allowing you to perform calculations.
 
